@@ -27,7 +27,7 @@ function App() {
   return (
     <>
     <p>I am on Choti Today(Due to Some reason) kindly Accept my Assigment</p>
-    <p style={{color:"green"}}>This is a counter Assigment when it is one it +1 if off it is not working </p>
+    <p style={{color:"green"}}>This is a counter Assigment when it is ON it +1 if off it is not working </p>
       <button onClick={counterFunc}>{Counter}</button>
       <br />
       <hr />
