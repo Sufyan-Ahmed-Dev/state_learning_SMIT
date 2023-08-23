@@ -26,6 +26,7 @@ function App() {
 
   return (
     <>
+    <p>I am on Choti Today(Due to Some reason) kindly Accept my Assigment</p>
       <button onClick={counterFunc}>{Counter}</button>
       <br />
       <hr />
